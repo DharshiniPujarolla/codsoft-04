@@ -6,7 +6,7 @@ A Machine Learning project that predicts product sales based on advertising expe
 
 ## 📌 Project Overview
 
-Sales prediction helps businesses estimate future sales using historical data and advertising investments. In this project, a regression model is trained to analyze the relationship between advertising budgets and product sales, enabling data-driven business decisions. :contentReference[oaicite:1]{index=1}
+Sales prediction helps businesses estimate future sales using historical data and advertising investments. In this project, a regression model is trained to analyze the relationship between advertising budgets and product sales, enabling data-driven business decisions.
 
 ---
 
